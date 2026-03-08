@@ -28,7 +28,7 @@ def read_text(filename):
 def main():
 
     filename = "data/Steve_Jobs.txt"
-    target_lang = "et"   # мова перекладу
+    target_lang = "et"   
 
     text, sentences = read_text(filename)
 
